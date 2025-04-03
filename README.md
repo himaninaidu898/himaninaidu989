@@ -15,3 +15,6 @@ I'm on a mission to enhance my programming skills and explore new technologies. 
 Working on sharpening my problem-solving skills with DSA.
 
 Building small projects to improve my web development skills.
+Connect with me:
+linkden profile:https://www.linkedin.com/in/himani-naidu-975969213/
+G-mail:himaninaidu7890@gmail.com
